@@ -106,7 +106,7 @@ In `index.html`, edit the `.skills-wrap` section:
 ## 🖼️ Preview
 
 ```
-![BioCard Preview](preview.png)
+![BioCard Preview](../preview.png)
 
 ```
 
