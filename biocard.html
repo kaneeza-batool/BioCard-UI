@@ -3,17 +3,69 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BioCard</title>
+    <title>BioCard — Kaneeza Batool</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="card">
-      <img src="./kaneeza_pfp.png" alt="Kaneeza Batool" />
-      <h3 id="name"></h3>
-      <p id="age"></p>
-      <p id="education"></p>
-      <p id="city"></p>
-      <button id="btn">Follow</button>
+    <div class="card-wrap">
+      <div class="bio-card">
+        <div class="card-header">
+          <div class="badge-live">
+            <div class="badge-dot"></div>
+            Active
+          </div>
+          <div class="avatar-ring">
+            <div class="avatar-inner">
+              <img src="./kaneeza_pfp.png" alt="Kaneeza Batool" />
+            </div>
+          </div>
+        </div>
+
+        <div class="card-body">
+          <h2 class="name-text" id="name">Kaneeza Batool</h2>
+          <p class="role-text">CS Student · Developer</p>
+
+          <div class="stats-row">
+            <div class="stat-box">
+              <div class="stat-num">128</div>
+              <div class="stat-lbl">Following</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-num">1.1k</div>
+              <div class="stat-lbl">Followers</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-num">15</div>
+              <div class="stat-lbl">Projects</div>
+            </div>
+          </div>
+
+          <div class="divider"></div>
+
+          <ul class="info-list">
+            <li>
+              <span class="info-icon icon-age">🎂</span>
+              <span id="age">21 years old</span>
+            </li>
+            <li>
+              <span class="info-icon icon-edu">🎓</span>
+              <span id="education">Undergraduate — Computer Science</span>
+            </li>
+            <li>
+              <span class="info-icon icon-loc">📍</span>
+              <span id="city">Sukkur, Pakistan</span>
+            </li>
+          </ul>
+
+          <div class="skills-wrap">
+            <span class="skill-tag">HTML/CSS</span>
+            <span class="skill-tag">JavaScript</span>
+            <span class="skill-tag">Python</span>
+          </div>
+
+          <button class="follow-btn" id="followBtn">+ Follow</button>
+        </div>
+      </div>
     </div>
 
     <script src="script.js"></script>
