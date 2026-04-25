@@ -64,8 +64,6 @@ const person = {
 In `index.html`, replace the initials inside `.avatar-inner`:
 
 ```html
-<!-- Before -->
-KB
 
 <!-- After -->
 <img src="./kaneeza_pfp.png" alt="Kaneeza Batool" />
@@ -108,8 +106,7 @@ In `index.html`, edit the `.skills-wrap` section:
 ## 🖼️ Preview
 
 ```
-<img width="748" height="829" alt="image" src="https://github.com/user-attachments/assets/d5745e6b-3bb5-43c4-8025-456abe8cf509" />
-
+![BioCard Preview](preview.png)
 
 ```
 
