@@ -4,6 +4,12 @@ A clean, animated personal profile card built with pure **HTML**, **CSS**, and *
 
 ---
 
+## 🖼️ Preview
+
+![BioCard Preview](preview.png)
+
+--
+
 ## ✨ Features
 
 - 🎨 Animated gradient header with curved wave cutoff
@@ -100,12 +106,6 @@ In `index.html`, edit the `.skills-wrap` section:
 | `shimmer` | Name text has a moving gradient shine |
 | `pulseRing` | Avatar ring glows in and out |
 | `countUp` | Stat boxes pop in with a scale effect |
-
----
-
-## 🖼️ Preview
-
-![BioCard Preview](preview.png)
 
 ---
 
