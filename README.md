@@ -107,18 +107,11 @@ In `index.html`, edit the `.skills-wrap` section:
 
 ## 🖼️ Preview
 
-> Add a screenshot here after deploying!
+```
+<img width="748" height="829" alt="image" src="https://github.com/user-attachments/assets/d5745e6b-3bb5-43c4-8025-456abe8cf509" />
+
 
 ```
-<img width="748" height="829" alt="image" src="https://github.com/user-attachments/assets/11b39652-d13f-4331-a4bd-c906afa8d3cc" />
-
-```
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
