@@ -8,7 +8,7 @@ A clean, animated personal profile card built with pure **HTML**, **CSS**, and *
 
 - 🎨 Animated gradient header with curved wave cutoff
 - 💜 Pulsing avatar ring with shimmer name effect
-- 📊 Stats row — Following, Followers, Projects
+- 📊 Stats row: Following, Followers, Projects
 - 🏷️ Skill tags with pastel color coding
 - 🔘 Interactive Follow / Unfollow button toggle
 - 🌙 Charcoal blue background for a professional dark feel
@@ -105,10 +105,7 @@ In `index.html`, edit the `.skills-wrap` section:
 
 ## 🖼️ Preview
 
-```
 ![BioCard Preview](preview.png)
-
-```
 
 ---
 
